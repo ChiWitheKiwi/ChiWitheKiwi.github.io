@@ -1,0 +1,72 @@
+body {
+	background: black;
+}
+h1{
+	color: white;
+}
+
+img{
+	height: 40px;
+}
+#navbar2 ul{
+	color: black;
+}
+#navbar ul {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  list-style-type: none;
+  margin: 0;
+  padding-top: 500px;
+  overflow: hidden;
+  background-color: white;
+}
+#navbar li {
+  width: 1000px;
+  float: left;
+}
+#navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  -o-transition: .5s;
+  -ms-transition: .5s;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+#navbar .page2:hover {
+  background-color: #111;
+}
+#navbar .art:hover {
+  background-color: #111;
+  background-size: 30px;
+  background-image: url("jerry.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+#navbar .aaaa:hover {
+  background-color: #111;
+  background-size: 880px;
+  background-image: url("Glitch-in-the-Meaning.gif");
+   background-repeat: no-repeat;
+  background-position: center;
+}
+}
+.navbar a{
+	background-color: crimson;
+	color: black;
+
+}
+.navbar a:hover {
+	
+}
+
+p{
+	color: crimson;
+}
+
+.getout a{
+	height:200px;
+}
