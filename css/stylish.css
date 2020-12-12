@@ -103,6 +103,9 @@ a:hover {
 body {
 	background: aliceblue !important;
 }
+.movie {
+	max-width:650px;
+}
 .container-fluid{
 	background: black;
 	height: 100%;
