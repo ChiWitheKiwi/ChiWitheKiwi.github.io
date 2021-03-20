@@ -2,7 +2,7 @@
 	padding-top: 25px;
 	padding-left: 15px !important;
 	border: 2px solid darkred;
-	font-family: 'Amatic SC', cursive !important;
+	font-family: 'helvetica', cursive !important;
 	font-size: 20px;
 	color: black;
 }
@@ -15,27 +15,27 @@ a:hover {
 	margin-left: auto;
 	margin-right: auto;
 	border: 2px solid darkred;
-	font-family: 'Amatic SC', cursive !important;
+	font-family: 'helvetica', cursive !important;
 	font-size: 20px;
 	color: black;
 }
 .col-sm-12{
 	border: 2px solid darkred;
-	font-family: 'Amatic SC', cursive !important;
+	font-family: 'helvetica', cursive !important;
 	font-size: 15px;
 	color: black;
 }
 .col-md-12{
 	padding-top: 15px;
 	border: 2px solid darkred;
-	font-family: 'Amatic SC', cursive !important;
+	font-family: 'helvetica', cursive !important;
 	font-size: 20px !important;
 	color: black;
 }
 .col-sm-7{ 
 	padding-top: 15px;
 	border: 2px solid darkred;
-	font-family: 'Amatic SC', cursive !important;
+	font-family: 'helvetica', cursive !important;
 	font-size: 15px;
 	color: black;
 }
@@ -49,13 +49,13 @@ a:hover {
 .col-sm-6{
 	padding-left: 25px !important;
 	border: 2px solid darkred;
-	font-family: 'Amatic SC', cursive !important;
+	font-family: 'helvetica', cursive !important;
 	font-size: 15px;
 	color: black;
 }
 p {
 	padding-left: 40px !important;
-	font-family: 'Amatic SC', cursive !important;
+	font-family: 'helvetica', cursive !important;
 	font-size: 20px;
 	color: white;
 }
@@ -68,7 +68,7 @@ a:hover {
   	margin-left: auto !important;
   	margin-right: auto !important;
 	border: 2px solid darkred;
-	font-family: 'Amatic SC', cursive !important;
+	font-family: 'helvetica', cursive !important;
 	font-size: 20px;
 	color: black;
 }
