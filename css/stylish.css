@@ -19,6 +19,18 @@ a:hover {
 	font-size: 20px;
 	color: black;
 }
+.col-lg-15{
+	padding-top: 25px;
+	padding-right: 25px;
+	display: block;
+	margin-left: 25px;
+	margin-right: 25px;
+	border: 2px solid darkred;
+	font-family: 'helvetica', cursive !important;
+	font-size: 20px;
+	color: black;
+	background: aliceblue;
+}
 .col-sm-12{
 	border: 2px solid darkred;
 	font-family: 'helvetica', cursive !important;
@@ -26,7 +38,7 @@ a:hover {
 	color: black;
 }
 .col-md-12{
-	padding-top: 15px;
+	padding-top: 30px;
 	border: 2px solid darkred;
 	font-family: 'helvetica', cursive !important;
 	font-size: 20px !important;
